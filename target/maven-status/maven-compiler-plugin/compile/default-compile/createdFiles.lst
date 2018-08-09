@@ -1,0 +1,8 @@
+databasesprocess\selects.class
+pojos\Koordinat.class
+services\parkyerikiralama.class
+pojos\lokasyon.class
+databasesprocess\baglanti.class
+services\resteasyone.class
+pojos\musteri.class
+databasesprocess\inserts.class
